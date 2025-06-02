@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Board\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=Board(int)
+comment1.text=\r\n\ Initialize\ a\ new\ board\ with\ a\ given\ size\ of\ n.\r\n\ \r\n\ @param\ n\ Size\ of\ the\ board\r\n
+comment2.params=
+comment2.target=void\ autoFill()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=
+comment4.target=int[][]\ getBoard()
+comment4.text=\r\n\ Get\ the\ matrix\ representation\ in\ its\ current\ state.\r\n\ \r\n\ @return\ Current\ matrix.\r\n
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=i\ j\ v
+comment6.target=void\ setValue(int,\ int,\ int)
+comment6.text=\r\n\ Set\ the\ value\ in\ the\ (i,\ j)\ position.\r\n\ \r\n\ @param\ i\ Row\ position.\r\n\ @param\ j\ Column\ position.\r\n\ @param\ v\ New\ value.\r\n
+numComments=7
